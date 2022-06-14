@@ -19,6 +19,16 @@
       "id": 4,
       "title": "fourth article",
       "content": "alternative example"
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 5
+    },
+    {
+      "title": "Fift Article",
+      "content": "More and more example!",
+      "id": 6
     }
   ]
 }
